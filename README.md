@@ -1,6 +1,6 @@
 README.Rmd
 ================
-brittneynelsen
+Brittney Nelsen
 2021-03-25
 
 > Abstract
@@ -27,14 +27,15 @@ populations.
 
 > Methods
 
-1.  I installed rinat package using remotes function
+1.  I installed rinat package using remotes function (Vijay Barve and
+    Edmund Hart, 2021)
 2.  I installed tidyverse
-3.  I installed rinat
+3.  I installed rinat (Vijay Barve and Edmund Hart, 2021)
 4.  I retrieved the koala information
 5.  I read koala information using their scientific name
 6.  I retrieved koala data specifically from 2015 Queensland Australia
     data
-7.  I mapped koala data location from 2015
+7.  I mapped koala data location from 2015 (H. Wickman, 2016)
 
 > Results
 
