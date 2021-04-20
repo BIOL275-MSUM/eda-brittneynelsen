@@ -67,7 +67,7 @@ koala_data <-
   mutate(datetime = as_datetime(datetime), year = year(datetime))
 ```
 
-```{r}
+```{r fig.height=11}
 filter(koala_data, year > 2015) %>%
   ggplot(aes(x = longitude,
              y = latitude,
